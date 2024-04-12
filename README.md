@@ -2,7 +2,7 @@
 
 ```bash
 # Clone the repository
-git clone git@github.com:gsc74/test_ksort.git
+git clone https://github.com/gsc74/test_ksort.git
 cd test_ksort
 make
 
